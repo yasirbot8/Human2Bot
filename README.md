@@ -24,6 +24,7 @@ conda activate Human2Bot
 pip install -r requirements.txt
 ```
 4. **Install Simulation Environments**
+
 Follow the instructions to install the TableTop environment and related Meta-World dependencies [here](https://github.com/anniesch/dvd).
 
 
