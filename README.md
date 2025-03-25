@@ -11,17 +11,18 @@
 git clone https://github.com/yasirbot8/Human2Bot.git
 cd Human2Bot
 
-# Create conda environment
+1. Create conda environment
 conda env create -f conda_env.yml
 conda activate Human2Bot
 
-# Install requirements
+2. Install requirements
 pip install -r requirements.txt
 
-# Install Meta-World dependency
-git clone https://github.com/anniesch/dvd && cd dvd && pip install -e . && cd ..
+3. Install Meta-World dependency
+git clone https://github.com/anniesch/dvd && cd dvd && pip install -e . && cd .
+4. Download Pre-Computed Embeddings
 
-### Download Pre-Computed Embeddings
+## Dataset
 
 1. **Download the pre-processed embeddings**:
    - [Something-Something-V2 with 50% augmentation (Main Dataset)](https://drive.google.com/drive/folders/YOUR_MAIN_EMBEDDING_FOLDER)
