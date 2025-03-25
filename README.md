@@ -38,4 +38,11 @@ To train the reward classifier, run:
 python main.py
 ```
 
+## 🧠 Planning with Human2Bot
+
+To generate task plans using the learned reward function, run:
+
+```bash
+python plan.py
+
 
