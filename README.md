@@ -28,5 +28,5 @@ pip install -r requirements.txt
     Follow the instructions to install the TableTop environment and related Meta-World dependencies [here](https://github.com/anniesch/dvd).
 
 ## Dataset
-Download the pre-computed embeddings from the Something-Something-V2 with 50% augmentation [here] (https://drive.google.com/) 
+Download the pre-computed embeddings from the Something-Something-V2 with 50% augmentation [here](https://drive.google.com/) 
 
