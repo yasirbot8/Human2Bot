@@ -13,8 +13,17 @@
 ```bash
 git clone https://github.com/yasirbot8/Human2Bot.git
 cd Human2Bot
----
-2. **Create and activate Conda environment**
+```
+2. **Create and Activate Conda Environment**
+```bash
 conda env create -f conda_env.yml
 conda activate Human2Bot
+```
+3. **Install Python Requirements**
+```bash
+pip install -r requirements.txt
+```
+4. **Install Simulation Environments**
+Follow the instructions to install the TableTop environment and related Meta-World dependencies [here](https://github.com/anniesch/dvd).
+
 
