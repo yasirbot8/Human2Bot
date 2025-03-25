@@ -13,3 +13,8 @@
 ```bash
 git clone https://github.com/yasirbot8/Human2Bot.git
 cd Human2Bot
+---
+2. **Create and activate Conda environment**
+conda env create -f conda_env.yml
+conda activate Human2Bot
+
