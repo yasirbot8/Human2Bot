@@ -3,7 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasirbot8/Human2Bot)
 [![Documentation](https://img.shields.io/badge/docs-github.io-blue)](https://yasirbot8.github.io/Human2Bot)
 
-> **Note**: Full documentation is available on [GitHub Pages](https://yasirbot8.github.io/Human2Bot)
 
 ## Quick Installation
 
@@ -21,3 +20,9 @@ pip install -r requirements.txt
 
 # Install Meta-World dependency
 git clone https://github.com/anniesch/dvd && cd dvd && pip install -e . && cd ..
+
+### Download Pre-Computed Embeddings
+
+1. **Download the pre-processed embeddings**:
+   - [Something-Something-V2 with 50% augmentation (Main Dataset)](https://drive.google.com/drive/folders/YOUR_MAIN_EMBEDDING_FOLDER)
+   - [Task-Specific Embeddings (Optional)](https://drive.google.com/drive/folders/YOUR_TASK_SPECIFIC_FOLDER)
