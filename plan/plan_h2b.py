@@ -5,7 +5,7 @@ from transforms import ComposeMix
 
 from sim_env.tabletop import Tabletop
 
-import metaworld_my
+import metaworld
 
 import pickle
 import matplotlib
