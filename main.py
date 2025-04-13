@@ -12,7 +12,7 @@ def main(_):
         "--num_tasks", "3",
         "--traj_length", "32",
         "--num_epochs", "150",
-        "--log_dir", "my_final_trained/fast/task_gen/",
+        "--log_dir", "trained/task_gen/",
         "--out_size", "256",
         "--batch_size", "24",
         "--domain_aug",
