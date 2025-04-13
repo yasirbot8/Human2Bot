@@ -1,4 +1,3 @@
-
 import subprocess
 from absl import app
 import os
@@ -8,7 +7,7 @@ def main(_):
     # Define the command and its arguments
     command = [
         "python3",
-        train.py,  # Use the correct path to the script
+        "train.py", 
         "--num_tasks", "3",
         "--traj_length", "32",
         "--num_epochs", "150",
