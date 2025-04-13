@@ -4,13 +4,11 @@ from absl import app
 import os
 
 def main(_):
-    # Define the path to the script
-    script_path = os.path.join("train", "train_h2b.py")
 
     # Define the command and its arguments
     command = [
         "python3",
-        script_path,  # Use the correct path to the script
+        train.py,  # Use the correct path to the script
         "--num_tasks", "3",
         "--traj_length", "32",
         "--num_epochs", "150",
