@@ -19,7 +19,7 @@ def main(_):
         "--im_size", "120",
         "--seed", "1",
         "--lr", "5e-3",
-        "--human_data_dir", "/home/yasir/yas_ws/catkin_ws/src/data/0.5aug/",
+        "--human_data_dir", "/data/0.5aug/",
         "--sim_dir", "data/human_demos/",
         "--human_tasks", "43", "44", "45",
         "--add_demos", "0",
