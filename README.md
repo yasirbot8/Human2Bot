@@ -45,7 +45,7 @@ To generate task plans using the learned reward function, run:
 ```bash
 python plan.py
 ```
-## Citation
+## 📖 Citation
 
 If you use this work, please cite the following paper:
 
