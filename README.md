@@ -49,6 +49,6 @@ python plan.py
 
 If you use this work, please cite the following paper:
 
-**Salam, Y.**, **Li, Y.**, **Herzog, J.**, et al. *Human2bot: Learning Zero-Shot Reward Functions for Robotic Manipulation from Human Demonstrations*. Auton Robots, 49(10), 2025. [https://doi.org/10.1007/s10514-025-10193-9](https://doi.org/10.1007/s10514-025-10193-9)
+**Salam, Y.**, **Li, Y.**, **Herzog, J.**, et al. *Human2bot: Learning Zero-Shot Reward Functions for Robotic Manipulation from Human Demonstrations*. Auton Robot, 49(10), 2025. [https://doi.org/10.1007/s10514-025-10193-9](https://doi.org/10.1007/s10514-025-10193-9)
 
 
